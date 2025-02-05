@@ -6,7 +6,9 @@
 
 ## About The Project
 
-<p>The idea was to create a tool for taking screenshots of homepages of five selected webpages which automatically saves these screenshots to Google Drive in JPG with width of 1920 pixels and height of 1080 pixels. With use of this tools API https://www.screenshotmachine.com/, which automatically creates the screenshots.</p>
+<p>Automated screenshot generator is an application designed to capture and store screenshots of five selected webpages. The tool automatically saves these screenshots to Google Drive in JPG format with a resolution of 1920x1080 pixels.</p>
+
+<p>For generating the screenshots, the application utilizes the ScreenshotMachine API (https://www.screenshotmachine.com/), which automates the screenshot creation process.</p>
 
 <br></br>
 
