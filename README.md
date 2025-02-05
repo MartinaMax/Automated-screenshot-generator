@@ -8,7 +8,7 @@
 
 <p>Automated screenshot generator is an application designed to capture and store screenshots of five selected webpages. The tool automatically saves these screenshots to Google Drive in JPG format with a resolution of 1920x1080 pixels.</p>
 
-<p>For generating the screenshots, the application utilizes the ScreenshotMachine API (https://www.screenshotmachine.com/), which automates the screenshot creation process.</p>
+<p>For generating the screenshots, the application utilizes the ScreenshotMachine API( https://www.screenshotmachine.com ), which automates the screenshot creation process.</p>
 
 <br></br>
 
